@@ -1,6 +1,6 @@
-Hi there 👋, I am Bhavuk❕
+                                    Hi there 👋, I am Bhavuk❕
 
-A Passionate Web Developer who work with Heart❤️.
+                      A Passionate Web Developer who work with Heart❤️.
 
 - 🔭 I’m currently working on Projects Build with JavaScript
 - 🌱 I’m currently learning React and Next.Js
