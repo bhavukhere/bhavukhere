@@ -9,4 +9,4 @@
 - 💻 Know more about me at https://bhavukhere.github.io/Portfolio/
 - 📫 You can reach me at bhavuk321@gmail.com
 -
-- ⚡ Fun fact: I am Still Thinking...💭
+- ⚡ A Joke: My Life❕.
