@@ -1,16 +1,12 @@
-### Hi there 👋
+Hi there 👋, I am Bhavuk❕
 
-<!--
-**bhavukhere/bhavukhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Passionate Web Developer who work with Heart❤️.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Projects Build with JavaScript
+- 🌱 I’m currently learning React and Next.Js
+- 🤔 I’m looking for help on Freelancing. Ping me, if you can guide, would be grateful💕.
+- 💬 Ask me about JavaScript, CSS and Python.
+- 💻 Know more about me at https://bhavukhere.github.io/Portfolio/
+- 📫 You can reach me at bhavuk321@gmail.com
+-
+- ⚡ Fun fact: I am Still Thinking...💭
