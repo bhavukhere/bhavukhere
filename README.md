@@ -1,12 +1,12 @@
                                                     ** Hi there 👋, I am Bhavuk❕**
                                                                   
-                                          A Passionate Web Developer who works from Heart❤️.
+                                          A Cyber Security Student who works from Heart❤️.
 
-- 🔭 I’m currently working on Projects Build with JavaScript
-- 🌱 I’m currently learning React and Next.Js
+- 🔭 I’m currently persuing Masters in Cyber Security from International University of applied Sciences Berlin, Germany.
+- 🌱 I’m currently learning Ethical Hacking.
 - 🤔 I’m looking for help on Freelancing. Ping me, if you can guide, would be grateful💕.
 - 💬 Ask me about JavaScript, CSS and Python.
 - 💻 Know more about me at https://bhavukhere.github.io/Portfolio/
-- 📫 You can reach me at bhavuk321@gmail.com
+- 📫 You can reach me at bhavuk19989@gmail.com
 -
 - ⚡ A Joke: My Life❕.
